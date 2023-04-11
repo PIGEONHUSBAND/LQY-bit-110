@@ -47,3 +47,37 @@
 //	printf("%d\n", sum);
 //	return 0;
 //}
+//int main()
+//{
+//    printf("     **     /n");
+//    printf("     **     /n");
+//    printf("************/n");
+//    printf("************/n");
+//    printf("     **     /n");
+//    printf("     **     /n");
+//    return 0;
+//}
+#include <stdio.h>
+
+//int main()
+//{
+//	int intelligence = 0;
+//	scanf("%d", &intelligence);
+//	if (intelligence >= 140);
+//	printf("Genius");
+//	return 0;
+//}
+#include <stdio.h>
+
+//int main()
+//{
+//    printf("Name    Age    Gender\n");
+//    printf("---------------------\n");
+//    printf("Jack    18     man   \n");
+//    return 0;
+//}
+//int main()
+//{
+//    printf("I lost my cellphone!");
+//    return 0;
+//}
